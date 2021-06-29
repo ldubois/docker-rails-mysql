@@ -1,6 +1,6 @@
 # docker-rails-mysql
 
-Docker paraméter pour lancer des projets ruby. Actuellemnt en version 2.6.3, le script est modifiable à souhait.
+Docker compose for rails + mysql. Actually in version 2.6.3, the docker file and docker compose maybe modify for another versions.
 
 ## Installation & Lancement
 
